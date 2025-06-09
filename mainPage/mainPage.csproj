@@ -182,5 +182,26 @@
   <ItemGroup>
     <None Include="Resources\category_icon_176162.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="ReadMeResources\Screenshot 2025-06-09 173912.png" />
+    <Content Include="ReadMeResources\Screenshot 2025-06-09 173932.png" />
+    <Content Include="ReadMeResources\Screenshot 2025-06-09 174021.png" />
+    <Content Include="ReadMeResources\Screenshot 2025-06-09 174041.png" />
+    <Content Include="ReadMeResources\Screenshot 2025-06-09 174224.png" />
+    <Content Include="ReadMeResources\Screenshot 2025-06-09 174241.png" />
+    <Content Include="ReadMeResources\Screenshot 2025-06-09 174304.png" />
+    <Content Include="ReadMeResources\Screenshot 2025-06-09 174350.png" />
+    <Content Include="ReadMeResources\Screenshot 2025-06-09 174731.png" />
+    <Content Include="ReadMeResources\Screenshot 2025-06-09 174813.png" />
+    <Content Include="ReadMeResources\Screenshot 2025-06-09 174857.png" />
+    <Content Include="ReadMeResources\Screenshot 2025-06-09 175117.png" />
+    <Content Include="ReadMeResources\Screenshot 2025-06-09 175133.png" />
+    <Content Include="ReadMeResources\Screenshot 2025-06-09 175238.png" />
+    <Content Include="ReadMeResources\Screenshot 2025-06-09 175338.png" />
+    <Content Include="ReadMeResources\Screenshot 2025-06-09 175348.png" />
+    <Content Include="ReadMeResources\Screenshot 2025-06-09 175405.png" />
+    <Content Include="ReadMeResources\Screenshot 2025-06-09 175424.png" />
+    <Content Include="ReadMeResources\script.sql" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
